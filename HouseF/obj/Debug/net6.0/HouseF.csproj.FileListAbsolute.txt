@@ -1,0 +1,5 @@
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\HouseF\obj\Debug\net6.0\HouseF.csproj.AssemblyReference.cache
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\HouseF\obj\Debug\net6.0\HouseF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\HouseF\obj\Debug\net6.0\HouseF.AssemblyInfoInputs.cache
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\HouseF\obj\Debug\net6.0\HouseF.AssemblyInfo.cs
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\HouseF\obj\Debug\net6.0\HouseF.csproj.CoreCompileInputs.cache

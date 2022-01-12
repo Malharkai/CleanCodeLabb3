@@ -1,0 +1,15 @@
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\bin\Debug\net6.0\ITHS-CC-Labb3.exe
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\bin\Debug\net6.0\ITHS-CC-Labb3.deps.json
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\bin\Debug\net6.0\ITHS-CC-Labb3.runtimeconfig.json
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\bin\Debug\net6.0\ITHS-CC-Labb3.dll
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\bin\Debug\net6.0\ref\ITHS-CC-Labb3.dll
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\bin\Debug\net6.0\ITHS-CC-Labb3.pdb
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ITHS-CC-Labb3.csproj.AssemblyReference.cache
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ITHS-CC-Labb3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ITHS-CC-Labb3.AssemblyInfoInputs.cache
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ITHS-CC-Labb3.AssemblyInfo.cs
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ITHS-CC-Labb3.csproj.CoreCompileInputs.cache
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ITHS-CC-Labb3.dll
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ref\ITHS-CC-Labb3.dll
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ITHS-CC-Labb3.pdb
+C:\Users\shotd\source\repos\ITHS-CC-Labb3\ITHS-CC-Labb3\obj\Debug\net6.0\ITHS-CC-Labb3.genruntimeconfig.cache
